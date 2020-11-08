@@ -1,0 +1,2 @@
+# TrajectoryOfHumanity
+This repository seeks to gather information related to a hypothesis that humanity has increases in empathy and decreases in violence based on its access and utilization of resources information. Further, the hypothesis seeks to establish that government, religion, and social issues have much less to do with prosperity than the presence and growth of the technologies and resources in any given region. 
